@@ -5,6 +5,10 @@
 layout: home
 ---
 
+<style type="text/css">
+.site-header { border-top: 0; border-bottom: 0; }
+</style>
+
 
 <p align="center">
   <img alt="Sørkite logo" src="/assets/img/sørkite_logo.png" />
