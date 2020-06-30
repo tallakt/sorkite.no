@@ -18,7 +18,8 @@ Sørkite er en klubb for kitere på Sørlandet. Våre mest brukte spotter
 ligger i Farsund/Lista, Mandal, Kristiansand, Grimstad og Arendal.
 
 Vi har en [gruppe på Facebook](https://www.facebook.com/groups/krskite) som er
-åpen for alle som ønsker å snakke om kiting på Sørlandet.
+åpen for alle som ønsker å snakke om kiting på Sørlandet. Her vil vi også
+annonsere meldinger fra styret som info om arrangementer.
 
 **For å bli medlem i klubben og støtte vårt arbeid, kan man betale kontigent
 200,- per år enten til konto nummer 3060.18.91677 eller til Vipps #562062.**
