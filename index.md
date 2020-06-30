@@ -14,7 +14,7 @@ layout: home
   <img alt="Sørkite logo" src="/assets/img/sørkite_logo.png" />
 </p>
 
-Sørkite er en kiteklubb for kitere på Sørlandet. Våre mest brukte spotter
+Sørkite er en klubb for kitere på Sørlandet. Våre mest brukte spotter
 ligger i Farsund/Lista, Mandal, Kristiansand, Grimstad og Arendal.
 
 Vi har en [gruppe på Facebook](https://www.facebook.com/groups/krskite) som er
