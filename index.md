@@ -41,6 +41,7 @@ I tillegg finnes andre målere som er mye brukt av våre medlemmer
 
 - [IPPC Kjevik Lufthavn ENCN](https://www.ippc.no/ippc/index.jsp)
 - Kystvær appen [Apple](https://apps.apple.com/no/app/kystv%C3%A6r-kystverket/id698101935?ign-mpt=uo%3D4) [Google](https://play.google.com/store/apps/details?id=no.scanmatic.kystverketapp)
+- [Målinger fra Torungen fyr på yr.no](https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-7578/Norge/Agder/Arendal/Torungen)
 
 
 Hvis du leter etter Kristiansand Kiteklubb, så er det samme klubben,  vi byttet
