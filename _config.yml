@@ -25,11 +25,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  social_links:
-    - instagram: soerkite
-    - facebook: https://www.facebook.com/groups/krskite
-
 instagram_username: soerkite
 facebook_username: krskite
 
