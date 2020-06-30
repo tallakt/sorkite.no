@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-  <img alt="Sørkite logo" src="/assets/img/sørkite_logo.png" />
+  <img class="logo-large" alt="Sørkite logo" src="/assets/img/sørkite_logo.svg" />
 </p>
 
 Sørkite er en klubb for kitere på Sørlandet. Våre mest brukte spotter
