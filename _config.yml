@@ -30,6 +30,9 @@ minima:
     - instagram: soerkite
     - facebook: https://www.facebook.com/groups/krskite
 
+instagram_username: soerkite
+facebook_username: krskite
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

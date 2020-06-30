@@ -5,11 +5,6 @@
 layout: home
 ---
 
-<style type="text/css">
-.site-header { border-top: 0; border-bottom: 0; }
-</style>
-
-
 <p align="center">
   <img alt="Sørkite logo" src="/assets/img/sørkite_logo.png" />
 </p>
@@ -17,7 +12,7 @@ layout: home
 Sørkite er en klubb for kitere på Sørlandet. Våre mest brukte spotter
 ligger i Farsund/Lista, Mandal, Kristiansand, Grimstad og Arendal.
 
-Vi har en [gruppe på Facebook](https://www.facebook.com/groups/krskite) som er
+Vi har en [gruppe på Facebook <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> ](https://www.facebook.com/groups/krskite) som er
 åpen for alle som ønsker å snakke om kiting på Sørlandet. Her vil vi også
 annonsere meldinger fra styret som info om arrangementer.
 
