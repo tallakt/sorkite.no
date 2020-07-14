@@ -12,7 +12,7 @@ title: Medlemmer 2020
 1. Christian Fredrik Sandø Wold
 1. Christina Tønnessen
 1. Daniel Leiv Collett
-1. Doris Oehley1Bondø
+1. Doris Oehley-Bondø
 1. Eivind Hillestad Pedersen
 1. Eivind Stendal
 1. Frøystein Hustadnes
