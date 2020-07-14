@@ -42,7 +42,7 @@ I tillegg finnes andre målere som er mye brukt av våre medlemmer
 
 Hvis du leter etter Kristiansand Kiteklubb, så er det samme klubben,  vi byttet
 navn til Sørkite i 2019. Du kan [laste ned vedtektene våre
-her](/assets/pdf/krskite-vedtekter.pdf).
+her](/assets/pdf/krskite-vedtekter.pdf) og se [medlemslisten her](/medlemmer).
 
 
 
